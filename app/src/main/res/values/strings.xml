@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SuitMedia</string>
+    <string name="username">username</string>
+    <string name="email">username@gmail.com</string>
+    <string name="username_hasn_t_been_chosen">Username hasn\'t been chosen</string>
+    <string name="please_fill_in_username_field">Please fill in username field</string>
+    <string name="username_p1">"Username : "</string>
+    <string name="not_palindrome">not palindrome</string>
+    <string name="ispalindrome">isPalindrome</string>
+    <string name="username_input">username_input</string>
+    <string name="ok">OK</string>
+    <string name="palindrome_checker">Palindrome Checker:</string>
+    <string name="next">Next</string>
+    <string name="check">Check</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="username_textfield">Username</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="choose_user">Choose User</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="no_users_found">No users found</string>
+</resources>
